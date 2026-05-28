@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyfalidate",
+        "uuid": 963900,
+        "checksum": "83ei6r"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
